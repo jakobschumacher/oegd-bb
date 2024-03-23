@@ -1,166 +1,149 @@
 ---
 title: "Über uns"
 toc: false
+lang: de
 ---
 
 
 
-::: {.callout-note appearance="simple"}
-
-## Kontakt
-Dr. Kristina Böhm  
-Tel.: 0331-289-2353  
-OeGDLandesverbandBBB@gmx.de
-
-:::
 
 
-## Vorstand
-
+::: {.callout-note appearance="minimal"}
 :::: {.columns}
-
-::: {.column width="25%"}
-![](../img/Kristina_BoehmXS.jpg)
-:::
-::: {.column width="5%"}
-:::
-
-::: {.column width="70%"}
-#### Dr. Kristina Böhm 
-_Vorsitzende_  
-Tel.: 0331-289-2353  
-:::
-::::
-
-:::: {.columns}
-
-::: {.column width="25%"}
-![](../img/Gudrun_WiddersXS.jpg)
-:::
-::: {.column width="5%"}
-:::
-
-::: {.column width="70%"}
-#### DM Gudrun Widders  
-_Stellvertretende Vorsitzende_  
-Tel.: 030 902794011  
-
-:::
-::::
-
-
-:::: {.columns}
-
-::: {.column width="25%"}
-![](../img/Oliver-FahronXS.jpg)
-:::
-::: {.column width="5%"}
-:::
-
-::: {.column width="70%"}
-#### Oliver Fahron
-_Stellvertretender Vorsitzender_  
-
-:::
-::::
-
-
-
-:::: {.columns}
-
-::: {.column width="25%"}
-![](../img/Dr-Nicolai-Savaskan-web.jpg)
-:::
-::: {.column width="5%"}
-:::
-
-::: {.column width="70%"}
-#### PD Dr. med. habil. Nicolai Savaskan
-_Schriftführer_  
-
-:::
-::::
-
-:::: {.columns}
-
-::: {.column width="25%"}
-![](../img/Martina_Ha__hnelXS.jpg)
-:::
-::: {.column width="5%"}
-:::
-
-::: {.column width="70%"}
-####  Martina Hänel
-_Schatzmeisterin_  
-Tel.: 030 8511787  
-martina_haenel(at)web.de  
-
-:::
-::::
-
-
-:::: {.columns}
-
-::: {.column width="25%"}
-![](../img/Claudia-Krummacher-web.jpg)
-:::
-::: {.column width="5%"}
-:::
-
-::: {.column width="70%"}
-####  Claudia Krummacher
-_Beisitzerin_
-
-:::
-::::   
-
-:::: {.columns}
-
-::: {.column width="25%"}
-![](../img/Oatrick_Larscheid-web.jpg)
-:::
-::: {.column width="5%"}
-:::
-
-::: {.column width="70%"}
-####  Patrick Larscheid
-_Beisitzer_
-
-:::
-::::   
-
-
-:::: {.columns}
-
 ::: {.column width="25%"}
 ![](../img/Katharina_Krause.jpg)
 :::
 ::: {.column width="5%"}
 :::
-
 ::: {.column width="70%"}
 ####  Dr. Katharina Krause
-_Beisitzerin_
-
+Vorsitzende
 :::
-:::: 
+::::
+:::
 
 
-
+::: {.callout-note appearance="minimal"}
 :::: {.columns}
+::: {.column width="25%"}
+![](../img/Gudrun_WiddersXS.jpg)
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="70%"}
+#### DM Gudrun Widders  
+_Stellvertretende Vorsitzende_  
+Tel.: 030 902794011  
+:::
+::::
+:::
 
+
+
+::: {.callout-note appearance="minimal"}
+:::: {.columns}
+::: {.column width="25%"}
+![](../img/Oliver-FahronXS.jpg)
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="70%"}
+#### Oliver Fahron
+_Stellvertretender Vorsitzender_  
+:::
+::::
+:::
+
+
+::: {.callout-note appearance="minimal"}
+:::: {.columns}
 ::: {.column width="25%"}
 ![](../img/jakobschumacher.jpg)
 :::
 ::: {.column width="5%"}
 :::
-
 ::: {.column width="70%"}
 ####  Dr. Jakob Schumacher
-_Beisitzer, Webseitenbetreuung_
-
+_Schatzmeister, Webseitenbetreuung_
 :::
 :::: 
+:::
+
+::: {.callout-note appearance="minimal"}
+:::: {.columns}
+::: {.column width="25%"}
+![](../img/Dr-Nicolai-Savaskan-web.jpg)
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="70%"}
+#### PD Dr. med. habil. Nicolai Savaskan
+_Schriftführer_  
+:::
+::::
+:::
+
+
+
+::: {.callout-note appearance="minimal"}
+:::: {.columns}
+::: {.column width="25%"}
+![](../img/Kristina_BoehmXS.jpg)
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="70%"}
+#### Dr. Kristina Böhm 
+_Beisitzerin_  
+:::
+::::
+:::
+::: {.callout-note appearance="minimal"}
+:::: {.columns}
+::: {.column width="25%"}
+![](../img/Martina_Ha__hnelXS.jpg)
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="70%"}
+####  Martina Hänel
+_Beisitzerin_  
+Tel.: 030 8511787  
+martina_haenel(at)web.de  
+:::
+::::
+:::
+
+::: {.callout-note appearance="minimal"}
+:::: {.columns}
+::: {.column width="25%"}
+![](../img/Claudia-Krummacher-web.jpg)
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="70%"}
+####  Claudia Krummacher
+_Beisitzerin_
+:::
+::::   
+:::
+
+
+::: {.callout-note appearance="minimal"}
+:::: {.columns}
+::: {.column width="25%"}
+![](../img/Oatrick_Larscheid-web.jpg)
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="70%"}
+####  Patrick Larscheid
+_Beisitzer_
+:::
+::::   
+:::
+
+
 
 
 

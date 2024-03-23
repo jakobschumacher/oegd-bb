@@ -3,23 +3,28 @@ title: "Was ist der öffentlicher Gesundheitsdienst - Ein Überblick"
 toc: false
 ---
 
-Der Öffentliche Gesundheitsdienst spielt eine zentrale Rolle im Gesundheitswesen. 
+Der Öffentliche Gesundheitsdienst (ÖGD) ist die Gesamtheit aller staatlichen Einrichtungen, die Gesundheitsgefahren abwehren, Krankheiten vorbeugen und die Gesundheits fördern. Der ÖGD arbeitet dabei vorrangig bevölkerungsbezogen. Er ist subsidiär und sozialkompensatorisch.
 
-Der Öffentliche Gesundheitsdienst kümmert sich vor allem um:
+Der Öffentliche Gesundheitsdienst ist auf kommunaler Ebene in Deutschland in Gesundheitsämtern, Fachbereichen oder Fachdiensten Gesundheit/ Gesundheitswesen unter Leitung eines Facharztes/Fachärztin für Öffentliches Gesundheitswesen in einem multiprofessionellen Team aus Ärzten, Zahnärzten, Psychologen, Sozialarbeitern, Ingenieuren, Hygienekontrolleuren und weiteren medizinischen Fachberufen organisiert. Neben der Beratung von Politik und Bürgern in medizinischen und hygienischen Belangen, erfüllen Gesundheitsämter ihre Rolle als "medizinischer Dienst" der Kreisverwaltung  oder Stadtverwaltung bis hin zu hoheitlichen Aufgaben in der Hygiene- und Trinkwasserüberwachung ggf. als Eingriffsbehörde sowie bei Vorkehrungen gegenüber Großschadensereignissen mit medizinischer/infektiologischer Problematik.
+ 
+Ein Gesundheitsamt verfügt üblicherweise über folgende Bereiche:
 
-*    Gesundheitsschutz und -förderung
-*    Prävention und Berichterstattung
-*    Politikberatung
+* Amtsärztlicher Dienst
+* Infektionsschutz und Hygiene
+* Kinder- und Jugendgesundheitsdienst
+* Kinder- und Jugendpsychiatrischer Dienst
+* Kinder- und Jugendzahngesundheitsdienst
+* Sozialpsychiatrischer Dienst/Psychiatriekoordination
 
-In Deutschland sind die Gesundheitsämter auf kommunaler Ebene angesiedelt. Sie bestehen aus einem Team von Experten, darunter Ärzte, Psychologen und Ingenieure. Ihre Aufgaben? Von der Beratung in medizinischen Fragen bis hin zur Überwachung von Trinkwasser und Hygiene.
+Darüber hinaus können vorgehalten werden:
 
-Ein typisches Gesundheitsamt hat verschiedene Bereiche:
+* Gesundheitsförderung/Koordinationen von Gesundheitskonferenzen
+* Rettungsdienstaufsicht/Ärztlicher Leiter Rettungsdienst
+* Örtliche Betreuungsbehörde
+* Schwangerenberatung/Schwangerenkonfliktberatung
 
-*    Amtsärztlicher Dienst
-*    Infektionsschutz und Hygiene
-*    Kinder- und Jugendgesundheitsdienst
-*    Psychiatrie
+Die Fachaufsicht auf Ebene der 16 Bundesländern obliegt den Medizindezernaten der Gesundheits- oder Sozialministerien der Länder, denen überwiegend  Landesgesundheitsämter bzw. Landesuntersuchungsämter beratend zur Verfügung stehen, die Untersuchungen und Dienstleistungen für Gesundheitsämter und Gesundheitsfachverwaltungen auf Landesebene, aber auch in der Forschung wahrnehmen.
 
-Zusätzlich gibt es Bereiche wie Gesundheitsförderung, Beratung von Personengruppen mit gesundheitlichen Einschränkungen, Heilpraktikeraufsicht, Schädlingsbekämpfung, umweltbezogener Gesundheitsschutz, Zentrum für sexuelle Gesundheit und viele mehr.
+Das Bundesministerium für Gesundheit koordiniert auf dem Feld des Öffentlichen Gesundheitswesens die Tätigkeit der spezialisierten Bundesoberbehörden, z. B. das Robert-Koch-Institut auf den Gebieten Infektiologie, Epidemiologie und Gesundheitsberichterstattung, das Paul-Ehrlich-Institut mit der Überwachung von Seren und Impfstoffen, Biotechnologie und Hämatologie/Transfusionsmedizin, das Bundesamt für Risikobewertung, das Bundesinstitut für Arzneimittel und Medizinprodukte, das Deutsche Institut für Medizinische Dokumentation und Informatik sowie die Bundeszentrale für gesundheitliche Aufklärung mit multimedialen Angeboten zu den Themen Gesundheitserziehung, Prävention und Aufklärung.
 
-Auf Landesebene gibt es die Landesstellen und auf Bundesebene spezialisierte Behörden wie das Robert-Koch Institut und das Paul-Ehrlich Institut. 
+Der Öffentliche Gesundheitsdienst nimmt einen Großteil des Öffentlichen Gesundheitswesens ein, den jedoch weitere Bereiche – Hygieneinstitute in und außerhalb von Universitäten, Institute für Rechtsmedizin und z. B. das Deutsche Grüne Kreuz bereichern. Eine erhebliche Schnittmenge hat das Öffentliche Gesundheitswesen mit Forschungs- und  Lehreinheiten für Public Health /  Gesundheitswissenschaften und nicht einseitig medizinisch ausgerichteten Netzwerken im Kontext Gesundheit. 

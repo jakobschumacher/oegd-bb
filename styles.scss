@@ -1,0 +1,28 @@
+/* css styles */
+/* -- define Sass vars --*/
+$darkblue: #053660;
+$teal: #147C91;
+$darkgray: #333333;
+
+/*-- use vars in CSS rules (we'll learn more about how to write CSS soon!) --*/
+h1 {
+  font-color: $darkblue;
+}
+
+.button-styling {
+  background: $teal;
+  color: $darkblue; 
+  border-color: $darkgray;
+}
+
+.callout {
+    padding-top: 5px;
+  padding-left: 10px;
+  color: black;
+  background-color: white;
+  border-bottom-right-radius: 10px;
+}
+
+.title {
+  /*font-size: 1.8em;
+}

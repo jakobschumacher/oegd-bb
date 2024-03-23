@@ -1,9 +1,18 @@
 project:
   type: website
 
+
+email: info@oegd-bb.de
+
 website:
   title: "ÖGD Brandenburg Berlin"
+  description: "Wir sind der Verband der Ärztinnen und Ärzte des Öffentlichen Gesundheitsdienstes der Länder Brandenburg und Berlin e.V.! Wir setzen uns ein für die Gesundheit der Bürgerinnen und Bürger, die Interessen der Mitglieder und denen der Beschätigten im Öffentlichen Gesundheitsdienst."
   site-url: https://oegd-bb.de
+  search: true
+  favicon: img/favicon.ico
+  back-to-top-navigation: true
+  image: logo_klein.png
+  open-graph: true
   navbar:
     logo: img/logo_klein.png
     left:
@@ -37,9 +46,11 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: styles.scss
     toc: true
 
 
 execute:
   freeze: auto
+
+
