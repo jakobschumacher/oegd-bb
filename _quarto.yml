@@ -27,7 +27,9 @@ website:
       - href: pages/about.qmd
         text: Über
   page-footer: 
-    left: "ÖGD Brandenburg Berlin" 
+    left: 
+      - text: "ÖGD Brandenburg Berlin" 
+      - href: https://oegd-brandenburg-berlin.de
     right: 
       - href: pages/impressum.qmd#datenschutzerklärung
         text: Datenschutz
@@ -35,8 +37,6 @@ website:
         text: Impressum 
       - href: pages/impressum.qmd#copyright
         text: Copyright
-      - href: pages/impressum.qmd#haftungshinweise
-        text: Haftungshinweise
       - href: pages/impressum.qmd#bildquellen
         text: Bildquellen 
       - text: Fehlermeldung

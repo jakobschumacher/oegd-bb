@@ -8,10 +8,10 @@ lang: de
 
 
 
-::: {.callout-note appearance="minimal"}
+::: {.persons}
 :::: {.columns}
 ::: {.column width="25%"}
-![](../img/Katharina_Krause.jpg)
+![](../img/Katharina_Krause.jpg){.custom-image}
 :::
 ::: {.column width="5%"}
 :::
@@ -23,10 +23,9 @@ Vorsitzende
 :::
 
 
-::: {.callout-note appearance="minimal"}
 :::: {.columns}
 ::: {.column width="25%"}
-![](../img/Gudrun_WiddersXS.jpg)
+![](../img/Gudrun_WiddersXS.jpg){.custom-image}
 :::
 ::: {.column width="5%"}
 :::
@@ -36,14 +35,12 @@ _Stellvertretende Vorsitzende_
 Tel.: 030 902794011  
 :::
 ::::
-:::
 
 
 
-::: {.callout-note appearance="minimal"}
 :::: {.columns}
 ::: {.column width="25%"}
-![](../img/Oliver-FahronXS.jpg)
+![](../img/Oliver-FahronXS.jpg){.custom-image}
 :::
 ::: {.column width="5%"}
 :::
@@ -52,13 +49,11 @@ Tel.: 030 902794011
 _Stellvertretender Vorsitzender_  
 :::
 ::::
-:::
 
 
-::: {.callout-note appearance="minimal"}
 :::: {.columns}
 ::: {.column width="25%"}
-![](../img/jakobschumacher.jpg)
+![](../img/jakobschumacher.jpg){.custom-image}
 :::
 ::: {.column width="5%"}
 :::
@@ -67,12 +62,10 @@ _Stellvertretender Vorsitzender_
 _Schatzmeister, Webseitenbetreuung_
 :::
 :::: 
-:::
 
-::: {.callout-note appearance="minimal"}
 :::: {.columns}
 ::: {.column width="25%"}
-![](../img/Dr-Nicolai-Savaskan-web.jpg)
+![](../img/Dr-Nicolai-Savaskan-web.jpg){.custom-image}
 :::
 ::: {.column width="5%"}
 :::
@@ -81,14 +74,12 @@ _Schatzmeister, Webseitenbetreuung_
 _Schriftführer_  
 :::
 ::::
-:::
 
 
 
-::: {.callout-note appearance="minimal"}
 :::: {.columns}
 ::: {.column width="25%"}
-![](../img/Kristina_BoehmXS.jpg)
+![](../img/Kristina_BoehmXS.jpg){.custom-image}
 :::
 ::: {.column width="5%"}
 :::
@@ -97,11 +88,12 @@ _Schriftführer_
 _Beisitzerin_  
 :::
 ::::
-:::
-::: {.callout-note appearance="minimal"}
+
+
+
 :::: {.columns}
 ::: {.column width="25%"}
-![](../img/Martina_Ha__hnelXS.jpg)
+![](../img/Martina_Ha__hnelXS.jpg){.custom-image}
 :::
 ::: {.column width="5%"}
 :::
@@ -112,12 +104,10 @@ Tel.: 030 8511787
 martina_haenel(at)web.de  
 :::
 ::::
-:::
 
-::: {.callout-note appearance="minimal"}
 :::: {.columns}
 ::: {.column width="25%"}
-![](../img/Claudia-Krummacher-web.jpg)
+![](../img/Claudia-Krummacher-web.jpg){.custom-image}
 :::
 ::: {.column width="5%"}
 :::
@@ -126,13 +116,11 @@ martina_haenel(at)web.de
 _Beisitzerin_
 :::
 ::::   
-:::
 
 
-::: {.callout-note appearance="minimal"}
 :::: {.columns}
 ::: {.column width="25%"}
-![](../img/Oatrick_Larscheid-web.jpg)
+![](../img/Oatrick_Larscheid-web.jpg){.custom-image}
 :::
 ::: {.column width="5%"}
 :::
@@ -141,7 +129,6 @@ _Beisitzerin_
 _Beisitzer_
 :::
 ::::   
-:::
 
 
 
@@ -163,4 +150,4 @@ Dr. med. Claudia Kaufhold (Berlin)
 
 
 ## Bundesverband
-Informationen zum Bundesverband sind auf der [Webseite bvoeg.de](https://bvoegd.de) zu finden
+Informationen zum Bundesverband sind auf der  Webseite des {{< iconify eva external-link-fill size=1x >}}[bvoegd.de](https://bvoegd.de) zu finden

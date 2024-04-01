@@ -1,11 +1,8 @@
 ---
-title: "Verband der Ärztinnen und Ärzte des Öffentlichen Gesundheitsdienstes der Länder Brandenburg und Berlin e.V."
+title: ""
 toc: false
 lang: de
-css: custom.css
 ---
-
-
 
 ![](img/logo.png){fig-align="center"}
 
@@ -16,9 +13,11 @@ Wir sind der Verband der Ärztinnen und Ärzte des Öffentlichen Gesundheitsdien
 ### Das sind wir
 :::: {.columns}
 ::: {.column width="25%"}
+::: {style="color:#b22222;"}
 <center>
 {{< iconify healthicons doctor-female size=5x >}}
 </center>
+:::
 :::
 ::: {.column width="75%"}
 * Ärztinnen und Ärzte im Öffentlichen Gesundheitsdienst
@@ -31,9 +30,11 @@ Wir sind der Verband der Ärztinnen und Ärzte des Öffentlichen Gesundheitsdien
 ### Das tun wir
 :::: {.columns}
 ::: {.column width="25%"}
+::: {style="color:#b22222;"}
 <center>
 {{< iconify healthicons intensity-concentration-bioassays-outline size=5x >}}</center>
 </center>
+:::
 :::
 ::: {.column width="75%"}
 * Vertretung der Mitglieder
@@ -49,9 +50,11 @@ Wir sind der Verband der Ärztinnen und Ärzte des Öffentlichen Gesundheitsdien
 ### Da wollen wir hin
 :::: {.columns}
 ::: {.column width="25%"}
+::: {style="color:#b22222;"}
 <center>
 {{< iconify healthicons happy size=5x >}}</center>
 </center>
+:::
 :::
 ::: {.column width="75%"}
 * Gesunde Bevölkerung
