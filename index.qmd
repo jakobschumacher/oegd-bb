@@ -1,14 +1,15 @@
 ---
-title: ""
+title: "Verband der Ärztinnen und Ärzte des Öffentlichen Gesundheitsdienstes der Länder Brandenburg und Berlin e.V."
 toc: false
 lang: de
 ---
 
-![](img/logo.png){fig-align="center"}
+
 
 
 Wir sind der Verband der Ärztinnen und Ärzte des Öffentlichen Gesundheitsdienstes der Länder Brandenburg und Berlin e.V.! Wir setzen uns ein für die Gesundheit der Bürgerinnen und Bürger, den Beschätigten im Öffentlichen Gesundheitsdienst und den Mitgliedern des Ärztinnen und Ärzte im ÖGD.
 
+![](img/logo.png){fig-align="center" width="50%"}
 
 ### Das sind wir
 :::: {.columns}

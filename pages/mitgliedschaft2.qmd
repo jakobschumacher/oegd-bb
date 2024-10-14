@@ -1,7 +1,6 @@
 ---
 title: "Mitgliedschaft im Verein"
 lang: de
-toc: false
 ---
 
 
@@ -52,7 +51,7 @@ Alle Ärztinnen und Ärzte, Zahnärztinnen und Zahnärzte sowie Fachkräfte im �
 ::: 
 ::: {.column width="75%"}
 ### Wichtige Dokumente kennen lernen
-Lernen Sie die {{< iconify solar document-add-linear size=1x >}}&nbsp;[Satzung](../documents/Satzung.pdf) und die {{< iconify solar document-add-linear size=1x >}}&nbsp;[Beitragsordnung](../documents/Beitragsordnung.pdf) kennen 
+Lernen Sie die {{< iconify solar document-add-linear size=1x >}}&nbsp;[Satzung](../documents/satzung.pdf) und die {{< iconify solar document-add-linear size=1x >}}&nbsp;[Beitragsordnung](../documents/Beitragsordnung.pdf) kennen 
 ::: 
 ::::
 
@@ -68,7 +67,7 @@ Lernen Sie die {{< iconify solar document-add-linear size=1x >}}&nbsp;[Satzung](
 ::: 
 ::: {.column width="75%"}
 ### Aufnahmeantrag ausfüllen und abschicken
-{{< iconify solar document-add-linear size=1x >}}&nbsp;[Mitgliedsantrag](../documents/Mitgliedsantrag.pdf) und die {{< iconify solar document-add-linear size=1x >}}&nbsp;[Einzugsermächtigung](../documents/Einzugsermächtigung.pdf) für die Mitgliedschaft herunterladen und ausfüllen.
+{{< iconify solar document-add-linear size=1x >}}&nbsp;[Mitgliedsantrag](../documents/Antrag_auf_Mitgliedschaft_Einzugsermaechtigung_2019-02-23.pdf) und die {{< iconify solar document-add-linear size=1x >}}&nbsp;[Einzugsermächtigung](../documents/Einzugsermaechtigung.pdf) für die Mitgliedschaft herunterladen und ausfüllen.
 
 
 Bitte senden Sie das ausgedruckte und ausgefüllte Original (Aufnahmeantrag & Einzugsermächtigung) an den oder die Schatzmeister*in.
@@ -98,7 +97,7 @@ Der Verein führt eine Mitgliedsliste. Wichtig ist vor allem die private E-Mail-
 ::: 
 ::: {.column width="75%"}
 ### Änderungen der Bankverbindung
-Sie haben die Bank gewechselt? Schicken Sie uns bitte eine neue {{< iconify solar document-add-linear size=1x >}}&nbsp;[Einzugsermächtigung](../documents/Einzugsermächtigung.pdf) 
+Sie haben die Bank gewechselt? Schicken Sie uns bitte eine neue {{< iconify solar document-add-linear size=1x >}}&nbsp;[Einzugsermächtigung](../documents/Einzugsermaechtigung.pdf) 
 ::: 
 ::::
 

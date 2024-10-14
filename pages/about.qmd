@@ -6,8 +6,6 @@ lang: de
 
 
 
-
-
 ::: {.persons}
 :::: {.columns}
 ::: {.column width="25%"}
