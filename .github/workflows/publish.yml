@@ -27,13 +27,11 @@ jobs:
       - name: Render site
         run: quarto render
 
-      - name: Verify rendered files
-        run: ls -la _site
-
       - name: Install lftp
         run: sudo apt-get update && sudo apt-get install -y lftp
 
       - name: Deploy via SFTP
+        timeout-minutes: 10
         env:
           FTP_HOST: ${{ secrets.FTP_HOST }}
           FTP_PORT: ${{ secrets.FTP_PORT }}
@@ -41,4 +39,8 @@ jobs:
           FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
           FTP_REMOTE_DIR: ${{ secrets.FTP_REMOTE_DIR }}
         run: |
-          lftp -u "$FTP_USERNAME","$FTP_PASSWORD" "sftp://$FTP_HOST:$FTP_PORT" -e "set sftp:auto-confirm yes; set cmd:fail-exit yes; mirror -R --verbose --delete --overwrite _site/ \"${FTP_REMOTE_DIR}\"; bye"
+          if [ -z "$FTP_REMOTE_DIR" ]; then
+            echo "FTP_REMOTE_DIR is empty"
+            exit 1
+          fi
+          lftp -u "$FTP_USERNAME","$FTP_PASSWORD" "sftp://$FTP_HOST:$FTP_PORT" -c "set sftp:auto-confirm yes; set cmd:fail-exit yes; set cmd:interactive false; set net:timeout 20; set net:max-retries 2; set net:reconnect-interval-base 5; mirror -R --delete --overwrite --only-newer _site/ \"${FTP_REMOTE_DIR}\""
