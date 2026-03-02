@@ -61,16 +61,28 @@ _Schatzmeister, Webseitenbetreuung_
 
 :::: {.columns}
 ::: {.column width="25%"}
-![](../img/Dr-Nicolai-Savaskan-web.jpg){.custom-image}
+
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="70%"}
-#### PD Dr. med. habil. Nicolai Savaskan
+#### Marcel Möller-Kutzki
 _Schriftführer_  
 :::
 ::::
 
+
+:::: {.columns}
+::: {.column width="25%"}
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="70%"}
+#### Simone Daiber
+_Beisitzerin_  
+:::
+::::
 
 
 
