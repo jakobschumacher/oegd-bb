@@ -43,14 +43,20 @@ jobs:
           name: site
           path: site
 
-      - name: Deploy to FTP server
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-        with:
-          server: ${{ secrets.FTP_HOST }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          port: ${{ secrets.FTP_PORT }}
-          protocol: sftp
-          local-dir: site/
-          server-dir: ${{ secrets.FTP_REMOTE_DIR }}
-          dangerous-clean-slate: false
+      - name: Install lftp
+        run: sudo apt-get update && sudo apt-get install -y lftp
+
+      - name: Deploy via SFTP
+        env:
+          FTP_HOST: ${{ secrets.FTP_HOST }}
+          FTP_PORT: ${{ secrets.FTP_PORT }}
+          FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+          FTP_REMOTE_DIR: ${{ secrets.FTP_REMOTE_DIR }}
+        run: |
+          lftp -u "$FTP_USERNAME","$FTP_PASSWORD" "sftp://$FTP_HOST:$FTP_PORT" <<'EOF'
+          set sftp:auto-confirm yes
+          set cmd:fail-exit yes
+          mirror -R --verbose site/ "$FTP_REMOTE_DIR"
+          bye
+          EOF
