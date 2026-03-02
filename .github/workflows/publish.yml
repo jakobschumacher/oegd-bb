@@ -37,10 +37,10 @@ jobs:
           FTP_PORT: ${{ secrets.FTP_PORT }}
           FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
           FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
-          FTP_REMOTE_DIR: ${{ secrets.FTP_REMOTE_DIR }}
+          FTP_REMOTE_DIR: ${{ secrets.FTP_REMOTE_DIR || secrets.FTP_REMOTEDIR || secrets.FTP_REMOTE_PATH || vars.FTP_REMOTE_DIR || vars.FTP_REMOTEDIR || vars.FTP_REMOTE_PATH }}
         run: |
           if [ -z "$FTP_REMOTE_DIR" ]; then
-            echo "FTP_REMOTE_DIR is empty"
+            echo "Missing remote dir. Set one of: FTP_REMOTE_DIR, FTP_REMOTEDIR or FTP_REMOTE_PATH (Secret or Variable)."
             exit 1
           fi
           lftp -u "$FTP_USERNAME","$FTP_PASSWORD" "sftp://$FTP_HOST:$FTP_PORT" -c "set sftp:auto-confirm yes; set cmd:fail-exit yes; set cmd:interactive false; set net:timeout 20; set net:max-retries 2; set net:reconnect-interval-base 5; mirror -R --delete --overwrite --only-newer _site/ \"${FTP_REMOTE_DIR}\""
